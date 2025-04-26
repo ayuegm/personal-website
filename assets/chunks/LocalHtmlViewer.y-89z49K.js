@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as a,j as c}from"./framework.CkHWihve.js";const o={name:"LocalHtmlViewer",props:{htmlFilePath:{type:String,required:!0}}},s=["src"];function n(i,l,e,_,p,d){return a(),r("div",null,[c("iframe",{src:e.htmlFilePath,width:"100%",height:"900px"},null,8,s)])}const h=t(o,[["render",n],["__scopeId","data-v-104a5fc3"]]);export{h as L};
